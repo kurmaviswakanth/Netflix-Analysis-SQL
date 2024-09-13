@@ -2,10 +2,10 @@
 
 ![Netflix Logo](https://github.com/kurmaviswakanth/Netflix-Analysis-SQL/blob/main/logo.png)
 
-### Overview
+## Overview
 This project is focused on analyzing Netflix's extensive catalog of movies and TV shows using SQL queries. The analysis aims to uncover valuable insights, answer key business questions, and provide an in-depth understanding of content distribution, ratings, geographic presence, and various other aspects of the streaming platform.
 
-### Objectives
+## Objectives
 - **Content Type Analysis:** Compare and analyze the distribution of content types (Movies vs. TV Shows) on Netflix.
 - **Ratings Analysis:** Identify the most common ratings across different types of content and explore the ratings distribution for both movies and TV shows.
 - **Release Year Analysis:** List and analyze content released in specific years (e.g., 2020) and observe trends in content addition over time.
@@ -14,15 +14,15 @@ This project is focused on analyzing Netflix's extensive catalog of movies and T
 - **Director & Actor Focus:** Find all content directed by specific directors, such as 'Rajiv Chilaka', and explore appearances by notable actors like 'Salman Khan'.
 - **Content Categorization:** Categorize content based on certain keywords (e.g., 'kill', 'violence') to classify them as 'Good' or 'Bad' and analyze this categorization.
 
-### Dataset
+## Dataset
 The data used in this project is sourced from Kaggle and includes information about Netflix movies and TV shows:
 
 - **Dataset:** Netflix Movies and TV Shows
 - **Link:** [Netflix Movies Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-### Business Problems & SQL Solutions
+## Business Problems & SQL Solutions
 
-#### Key Questions Answered:
+### Key Questions Answered:
 1. Content Distribution: How many movies vs. TV shows are available on Netflix?
 2. Most Common Ratings: What are the most frequent content ratings across movies and TV shows?
 3. Release Year Analysis: Which movies were released in a specific year, such as 2020?
@@ -44,7 +44,7 @@ The data used in this project is sourced from Kaggle and includes information ab
 19. Top Actors by Appearances: Who are the top 3 actors by the number of appearances on Netflix?
 20. Genre Trends by Release Year: How does the genre distribution change by release year?
 
-### Findings and Conclusion
+## Findings and Conclusion
 - **Content Distribution:** Netflix features a wide array of movies and TV shows, with certain countries dominating content production.
 - **Common Ratings:** Insights into the most frequent ratings reveal the types of content that are commonly produced and target specific audiences.
 - **Geographical Insights:** The analysis highlights the top countries producing content and shows how India’s Netflix catalog has evolved over the years.
@@ -52,6 +52,6 @@ The data used in this project is sourced from Kaggle and includes information ab
 
 The analysis offers a thorough view of Netflix's content library, providing actionable insights that can help shape content strategy, audience targeting, and market expansion decisions.
 
-### Tools Used
+## Tools Used
 - **SQL:** For querying and analyzing the dataset.
 - **Dataset Source:** [Kaggle - Netflix Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
